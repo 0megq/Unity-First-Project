@@ -1,0 +1,46 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 530 (ID=0x1912)
+    Vendor:   Intel
+    VRAM:     2142 MB
+    Driver:   25.20.100.6446
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Kids\Desktop\Nick\Unity\C# First Project\Builds\v1.0\v1.0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Kids\Desktop\Nick\Unity\C# First Project\Builds\v1.0\v1.0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Kids\Desktop\Nick\Unity\C# First Project\Builds\v1.0\v1.0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Kids\Desktop\Nick\Unity\C# First Project\Builds\v1.0\v1.0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Kids\Desktop\Nick\Unity\C# First Project\Builds\v1.0\v1.0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Kids\Desktop\Nick\Unity\C# First Project\Builds\v1.0\v1.0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Kids\Desktop\Nick\Unity\C# First Project\Builds\v1.0\v1.0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Kids\Desktop\Nick\Unity\C# First Project\Builds\v1.0\v1.0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.156 seconds
+Platform assembly: C:\Users\Kids\Desktop\Nick\Unity\C# First Project\Builds\v1.0\v1.0_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Kids\Desktop\Nick\Unity\C# First Project\Builds\v1.0\v1.0_Data\Managed\System.dll (this message is harmless)
+desktop: 1680x1050 59Hz; virtual: 3280x1050 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 22.311100 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 49e0 -> priority: 1 
+  Thread -> id: 5204 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 16.975800 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 326.
+Total: 0.190300 ms (FindLiveObjects: 0.034600 ms CreateObjectMapping: 0.017000 ms MarkObjects: 0.128500 ms  DeleteObjects: 0.009300 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.389700 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 371.
+Total: 0.162100 ms (FindLiveObjects: 0.039300 ms CreateObjectMapping: 0.012800 ms MarkObjects: 0.100200 ms  DeleteObjects: 0.008200 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.436800 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 432.
+Total: 0.592900 ms (FindLiveObjects: 0.031700 ms CreateObjectMapping: 0.015500 ms MarkObjects: 0.532600 ms  DeleteObjects: 0.010300 ms)
+
